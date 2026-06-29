@@ -7,7 +7,6 @@ A lightweight macOS overlay that shows an animated bongo cat reacting to your ke
 
 ![Bongo Cat macOS demo](assets/example.gif)
 
-[Open the higher-quality video](assets/example-cropped.mov)
 
 ## Features
 

@@ -5,7 +5,11 @@
 
 A lightweight macOS overlay that shows an animated bongo cat reacting to your keyboard input.
 
-![Demo](assets/demo.gif)
+<video src="assets/example-cropped.mov" controls autoplay muted loop playsinline poster="assets/example-poster.png">
+  Demo video: assets/example-cropped.mov
+</video>
+
+[Open the demo video](assets/example-cropped.mov)
 
 ## Features
 
